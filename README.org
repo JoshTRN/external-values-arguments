@@ -7,7 +7,7 @@
 #+HTML_HEAD: <style>::-webkit-scrollbar-thumb {background-color: #5b676d;}</style>
 #+HTML_HEAD: <style>#content {background-color: rgb(1, 6, 8);}</style>
 #+HTML_HEAD: <style>#table-of-contents {background-color: rgb(0, 0, 0); border-right-color: rgb(209, 191, 161);}</style>
-#+HTML_HEAD: <style>:target {background-color: #ffa;}</style>
+#+HTML_HEAD: <style>:target {-webkit-animation: target-fade 3s 1; -moz-animation: target-fade 3s 1;} @-webkit-keyframes target-fade {0% { background-color: rgba(22,46,1,1); } 100% { background-color: rgba(22,46,0,0); }} @-moz-keyframes target-fade {0% { background-color: rgba(22,46,1,1); } 100% { background-color: rgba(22,46,0,0); }}</style>
 #+OPTIONS: num:nil
 
 
@@ -63,6 +63,10 @@ Consider behavioral tendencies /simpliciter/. There are certainly some behaviora
 
 ***** Argument 3a
 1. <<one-3a>> If one has a DE-sire to correct a behavioral tendency, one has a tendency to not engage in said behavioral tendency.
+   :PROPERTIES:
+   :CUSTOM_ID: my-headline-2
+   :END:
+This is heading number two
 2. If one does has a tendency to not engage in said behavioral tendency, one does not have a the tendency.
 3. If one does not have the behavioral tendency, they do not have the DE-sire to correct the behavioral tendency.
 4. One has the DE-sire to correct a behavioral tendency [Assumed for reductio]
@@ -71,6 +75,7 @@ Consider behavioral tendencies /simpliciter/. There are certainly some behaviora
 Notes on 3a:
  + 1-3 reduces to P -> ~P from which we can DE-rive ~P. P is assumed for reductio.
  + It should be clear how [[one-3a][1.]] is equivalent to the semantic thesis that having the propensity to behave in a way to bring /x/ about, one ought /x/.
+
 ** Objection 3
 These arguments only show that these /normative/ properties are not analytically reducible to propensities. They might be synthetically reducible to propensities.
 
