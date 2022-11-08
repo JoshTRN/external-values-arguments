@@ -2,6 +2,7 @@
 #+SETUPFILE: https://distro.tube/org-html-themes/org/theme-readtheorg.setup
 #+EXPORT_FILE_NAME: index.html
 #+HTML_HEAD: <style>body{padding-top:0px;}</style>
+#+OPTIONS: num:nil
 
 
 * Definition
