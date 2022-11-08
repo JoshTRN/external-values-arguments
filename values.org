@@ -65,7 +65,7 @@ Consider behavioral tendencies /simpliciter/. There are certainly some behaviora
 These arguments only show that these /normative/ properties are not analytically reducible to propensities. They might be synthetically reducible to propensities.
 
 *** Response to 3
-Even so, I can't see how [[Argument 3a]] doesn't apply. But if we assume for the sake of argument that 3a is mistaken with respect to synthetically reducible normative properties, I would point to Bilgrami's Moore-Frege-Moore Pincer Argument to quell these worries. That's too DE-tailed to be laid out here, but never the less, the argument can be given.
+Even so, I can't see how [[Argument 3a][Argument 3a]] doesn't apply. But if we assume for the sake of argument that 3a is mistaken with respect to synthetically reducible normative properties, I would point to Bilgrami's Moore-Frege-Moore Pincer Argument to quell these worries. That's too DE-tailed to be laid out here, but never the less, the argument can be given.
 
 
 * Footnotes
