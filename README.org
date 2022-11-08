@@ -24,7 +24,7 @@ Another formulation might go as follows:
 I take it any objections are going to be to the first premises of either argument i.e. we're not skeptics about motivation.
 
 ** Objection 1
-One might ask, why can't it be the case that value properties are internal? That is to say, why can't it be sufficient that if one has the DE-sire^{1} that /x/. One might think that if one have the DE-sire that /x/, the DE-sire thereof is enough to say that there is motivation.
+One might ask, why can't it be the case that value properties are internal? That is to say, why can't it be sufficient that if one has the DE-sire^{[fn:1]} that /x/. One might think that if one have the DE-sire that /x/, the DE-sire thereof is enough to say that there is motivation.
 *** Response to 1
 The response to this is that there has to be a difference between the DE-sire itself and the content of said DE-sire. To DE-sire is to DE-sire /that/, i.e. there must be a /that/ clause. e.g. I DE-sire /that/ I eat the cake, I DE-sire /that/ I go to the store. What does this mean? Well it means that the cake is /DE-sirable/. Another way of saying this is that the cake has a property, which we're calling DE-sirable, such that.
 
@@ -60,14 +60,14 @@ Consider behavioral tendencies /simpliciter/. There are certainly some behaviora
 4. One has the DE-sire to correct a behavioral tendency [Assumed for reductio]
 5. One does not have the DE-sire to correct the behavioral tendency. [1-3]
 
-+ 1-3 reduces to P -> ~P from which we can DE-rive ~P. P is assumed for reductio.
-+ 1. It should be clear how one is equivalent to the semantic thesis that having the propensity to behave in a way to bring /x/ about, one ought /x/.
+Notes on 3a:
+ + 1-3 reduces to P -> ~P from which we can DE-rive ~P. P is assumed for reductio.
+ + 1. It should be clear how one is equivalent to the semantic thesis that having the propensity to behave in a way to bring /x/ about, one ought /x/.
 ** Objection 3
 These arguments only show that these /normative/ properties are not analytically reducible to propensities. They might be synthetically reducible to propensities.
 
 *** Response to 3
 Even so, I can't see how [[Argument 3a][Argument 3a]] doesn't apply. But if we assume for the sake of argument that 3a is mistaken with respect to synthetically reducible normative properties, I would point to Bilgrami's Moore-Frege-Moore Pincer Argument to quell these worries. That's too DE-tailed to be laid out here, but never the less, the argument can be given.
 
-
-* Footnotes
-1. DE-sires here are construed as all things considered DE-sires for the sake of simplicity. This is to avoid cases where one might not have the motivation to /x/ where there are in fact competing DE-sires to /~x/.
+* Foot-notes
+[fn:1]DE-sires here are construed as all things considered DE-sires for the sake of simplicity. This is to avoid cases where one might not have the motivation to /x/ where there are in fact competing DE-sires to /~x/.
