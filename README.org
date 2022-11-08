@@ -63,7 +63,6 @@ Consider behavioral tendencies /simpliciter/. There are certainly some behaviora
 
 ***** Argument 3a
 1. <<one-3a>> If one has a DE-sire to correct a behavioral tendency, one has a tendency to not engage in said behavioral tendency.
-This is heading number two
 2. If one does has a tendency to not engage in said behavioral tendency, one does not have a the tendency.
 3. If one does not have the behavioral tendency, they do not have the DE-sire to correct the behavioral tendency.
 4. One has the DE-sire to correct a behavioral tendency [Assumed for reductio]
