@@ -1,6 +1,7 @@
 #+TITLE: Argument for External Value Properties
 #+SETUPFILE: https://distro.tube/org-html-themes/org/theme-readtheorg.setup
 #+EXPORT_FILE_NAME: index.html
+#+HTML_HEAD: <style>body{padding-top:0px;}</style>
 
 
 * Definition
@@ -69,5 +70,5 @@ These arguments only show that these /normative/ properties are not analytically
 *** Response to 3
 Even so, I can't see how [[Argument 3a][Argument 3a]] doesn't apply. But if we assume for the sake of argument that 3a is mistaken with respect to synthetically reducible normative properties, I would point to Bilgrami's Moore-Frege-Moore Pincer Argument to quell these worries. That's too DE-tailed to be laid out here, but never the less, the argument can be given.
 
-* Foot-notes
+** Footnotes
 [fn:1]DE-sires here are construed as all things considered DE-sires for the sake of simplicity. This is to avoid cases where one might not have the motivation to /x/ where there are in fact competing DE-sires to /~x/.
