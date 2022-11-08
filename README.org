@@ -1,5 +1,5 @@
 #+TITLE: Argument for External Value Properties
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://distro.tube/org-html-themes/org/theme-readtheorg.setup
 #+EXPORT_FILE_NAME: index.html
 
 
