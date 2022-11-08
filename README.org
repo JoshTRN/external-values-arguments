@@ -1,7 +1,12 @@
 #+TITLE: Argument for External Value Properties
 #+SETUPFILE: https://distro.tube/org-html-themes/org/theme-readtheorg.setup
 #+EXPORT_FILE_NAME: index.html
-#+HTML_HEAD: <style>body{padding-top:0px;}</style>
+#+HTML_HEAD: <style>body{padding-top:0px; background-color: rgb(0, 0, 0)}</style>
+#+HTML_HEAD: <style>::-webkit-scrollbar {background-color: #080f11; color: #ffffff;}</style>
+#+HTML_HEAD: <style>::-webkit-scrollbar-corner {background-color: #000000;}</style>
+#+HTML_HEAD: <style>::-webkit-scrollbar-thumb {background-color: #5b676d;}</style>
+#+HTML_HEAD: <style>#content {background-color: rgb(1, 6, 8);}</style>
+#+HTML_HEAD: <style>#table-of-contents {background-color: rgb(0, 0, 0); border-right-color: rgb(209, 191, 161);}</style>
 #+OPTIONS: num:nil
 
 
