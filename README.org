@@ -7,6 +7,7 @@
 #+HTML_HEAD: <style>::-webkit-scrollbar-thumb {background-color: #5b676d;}</style>
 #+HTML_HEAD: <style>#content {background-color: rgb(1, 6, 8);}</style>
 #+HTML_HEAD: <style>#table-of-contents {background-color: rgb(0, 0, 0); border-right-color: rgb(209, 191, 161);}</style>
+#+HTML_HEAD: <style>:target {background-color: #ffa;}</style>
 #+OPTIONS: num:nil
 
 
@@ -61,7 +62,7 @@ If one is moved by open question arguments, an open question argument can be cle
 Consider behavioral tendencies /simpliciter/. There are certainly some behavioral tendencies of which we may not even have conscious awareness. It follows then that we ought to do whatever we're doing. Apart from that, /even if we are aware of all of our behavioral tendencies/, this would mean that we can't engage in corrective behavior. How are we supposed to understand DE-sires that conflict with our behavioral tendencies? We have a contradiction on our hands:
 
 ***** Argument 3a
-1.<<one-3a>> If one has a DE-sire to correct a behavioral tendency, one has a tendency to not engage in said behavioral tendency.
+1. <<one-3a>> If one has a DE-sire to correct a behavioral tendency, one has a tendency to not engage in said behavioral tendency.
 2. If one does has a tendency to not engage in said behavioral tendency, one does not have a the tendency.
 3. If one does not have the behavioral tendency, they do not have the DE-sire to correct the behavioral tendency.
 4. One has the DE-sire to correct a behavioral tendency [Assumed for reductio]
